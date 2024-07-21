@@ -1,5 +1,3 @@
-# MarcEllis_Angular_Run_Book
-
 # Angular Interview Questions & Answers
 
 
